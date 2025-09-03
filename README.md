@@ -37,9 +37,8 @@
 
 <img align="left" alt="Node.js" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-<img align="left" alt="Express.js" width="40px" src="https://img.icons8.com/color/48/000000/express-js.png" />
+<img align="left" alt="Express.js" width="40px" src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" />
 <img align="left" alt="MongoDB" width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
-<img align="left" alt="JWT" width="40px" src="https://img.icons8.com/ios-filled/50/000000/jwt.png" />
 <img align="left" alt="Bootstrap" width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="GitHub" width="40px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
